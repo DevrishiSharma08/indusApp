@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\uploads\\documents\\30_Aadhar Card_20251121144254_IMG-20250907-WA0024.jpg",
+      "PackagePath": "staticwebassets\\uploads\\documents\\30_Aadhar Card_20251121144254_IMG-20250907-WA0024.jpg"
+    },
+    {
+      "Id": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\uploads\\documents\\30_Bank Passbook_20251121144254_IMG-20250907-WA0028.jpg",
+      "PackagePath": "staticwebassets\\uploads\\documents\\30_Bank Passbook_20251121144254_IMG-20250907-WA0028.jpg"
+    },
+    {
+      "Id": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\uploads\\documents\\30_PAN Card_20251121144254_IMG-20250907-WA0026.jpg",
+      "PackagePath": "staticwebassets\\uploads\\documents\\30_PAN Card_20251121144254_IMG-20250907-WA0026.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Indus.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Indus.Api.props",
+      "PackagePath": "build\\Indus.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Indus.Api.props",
+      "PackagePath": "buildMultiTargeting\\Indus.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Indus.Api.props",
+      "PackagePath": "buildTransitive\\Indus.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,64 @@
+We are building the "Leave & Attendance" module for our Indus App. The goal is to create a single, unified dashboard page that is mobile-first, modern, compact, and highly functional. Please maintain UI/UX consistency with the rest of the application.
+This dashboard is role-based and dynamic. The data and available actions will change based on the user's role (Admin, Lead, or standard User).
+1. Overall Dashboard Layout & Structure
+The page should be a single, scrollable dashboard. The content is organized from top to bottom.
+1.1. Dynamic KPIs Section
+At the very top, display a row of Card components for Key Performance Indicators (KPIs).
+For a standard User:
+"Leave Balance" (e.g., Casual: 8/12).
+"Attendance This Month" (e.g., Present: 18, WFH: 2, Absent: 1).
+"Pending Requests" (Count of their own requests awaiting approval).
+For a Lead/Admin:
+"Team on Leave Today" (Count).
+"Pending Approvals" (Count of team requests).
+"Team Attendance Summary" (Pie chart inside a card showing Present/Absent/WFH).
+2. Primary Action Bar & Main Content Area
+Below the KPIs, create a main content area that is controlled by a set of primary actions.
+2.1. The Action Triggers
+Display three main action triggers horizontally: Apply, History, and Approvals.
+History and Approvals should be styled as Tabs.Trigger components from shadcn/ui. This will control which content area is visible below.
+1. The "Apply" Button:
+This should be a DropdownMenu component triggered by a button labeled "Apply".
+Dropdown Content: A list of four options:
+Apply for Leave
+Request WFH (Work From Home)
+Request On-site Duty
+Request Attendance Regularization
+Functionality: Clicking any of these options must open a small, clean Dialog (modal/popup) with a specific form.
+Leave Form: Leave Type (select), Start/End Date (date range picker), Reason (textarea).
+WFH Form: Start/End Date (date range picker), Reason (textarea).
+On-site Duty Form: Date (date picker), Location (text input), Reason (textarea).
+Regularization Form: Date to Correct (date picker), New Punch-In Time (time input), New Punch-Out Time (time input), Reason (textarea).
+2.2. The Main Content Area (Controlled by Tabs)
+This area will display either the "History" or "Approvals" view based on the active tab.
+2. The "History" View (Tabs.Content for History):
+Role-Based Toggle (for Admins/Leads): At the top of this view, include a Switch or styled toggle buttons for "My History" and "Team History". Standard users will only see their own history.
+Content: A Table showing a combined log of all leave and attendance records.
+Table Columns: Date, Punch In, Punch Out, Total Hours, Status (rendered as a Badge: Present, Absent, WFH, On-site, Late, On Leave).
+Universal Features: Include a Filter button (to filter by date range, status), an Export button, and a global Search bar within this view to find records for a specific team member.
+3. The "Approvals" View (Tabs.Content for Approvals):
+This view is only visible to Admins and Leads.
+Role-Based Toggle: Switch for "My Approvals" (requests where I am the approver) and "Team Approvals" (all requests from my team).
+Filter Dropdown: A Select dropdown to filter requests by type: Leave, WFH, On-site, Regularization.
+View Toggle: Prominent icon buttons to switch between Table View and Card View.
+Table View Content:
+Columns: Request Type, Employee Name, Start Date, End Date, Reason, Reporting Manager, Actions.
+Actions Column: Two buttons: "Approve" (green) and "Reject" (red). Clicking "Reject" should open a Dialog asking for a mandatory remark.
+Card View Content:
+A grid of Cards. Each card displays the same information as the table row but in a more visual layout.
+The "Approve" and "Reject" buttons should be clearly visible at the bottom of each card.
+Universal Features: Include Filter and Export buttons for the approval list.
+3. Analytics & Logs Section
+Below the main content area, display analytics and recent activities.
+3.1. Charts & Graphs
+Display a Card component with a title like "Leave & Attendance Analytics".
+Inside, use a library like Recharts to display a responsive bar chart or line graph.
+Dynamic Data Logic (Crucial):
+Admin: The chart shows data for the entire organization (e.g., total leaves taken per department).
+Lead: The chart shows data for their specific team (e.g., leaves taken by each team member).
+User: The chart shows their personal data (e.g., their own leave types taken this year).
+3.2. Recent Activity Log
+Below the chart, display a final Card titled "Recent Activity".
+This should be a simple, scrollable feed listing the last 10-15 actions related to the user/team (e.g., "[User A] applied for leave", "[User B]'s WFH request was approved", "[User C] punched in late").
+Final Instructions:
+Please ensure the entire page is fully responsive. The mobile view should be clean and tappable, and the desktop view should utilize the extra space effectively without losing the compact feel. The global search should be powerful enough to filter the visible data instantly.  

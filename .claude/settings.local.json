@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//e/**)",
+      "Bash(sed -n '1000,1050p' page.tsx)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

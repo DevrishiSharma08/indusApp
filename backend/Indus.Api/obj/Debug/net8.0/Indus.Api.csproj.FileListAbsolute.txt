@@ -1,0 +1,435 @@
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\appsettings.json
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.staticwebassets.endpoints.json
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.exe
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.deps.json
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.runtimeconfig.json
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.pdb
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Humanizer.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.AssemblyReference.cache
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.AssemblyInfoInputs.cache
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.AssemblyInfo.cs
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.CoreCompileInputs.cache
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\scopedcss\bundle\Indus.Api.styles.css
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.Up2Date
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.dll
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\refint\Indus.Api.dll
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.pdb
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.genruntimeconfig.cache
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\ref\Indus.Api.dll
+D:\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.sourcelink.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\appsettings.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.exe
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.deps.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.runtimeconfig.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.pdb
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Humanizer.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.AssemblyReference.cache
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.AssemblyInfoInputs.cache
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.AssemblyInfo.cs
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.CoreCompileInputs.cache
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.sourcelink.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets\msbuild.Indus.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Indus.Api.props
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Indus.Api.props
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Indus.Api.props
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\scopedcss\bundle\Indus.Api.styles.css
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.Up2Date
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\refint\Indus.Api.dll
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.pdb
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.genruntimeconfig.cache
+D:\IndusInternalApp\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\ref\Indus.Api.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\appsettings.json
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.staticwebassets.endpoints.json
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.exe
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.deps.json
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.runtimeconfig.json
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.pdb
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Azure.Core.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.AssemblyReference.cache
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.AssemblyInfoInputs.cache
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.AssemblyInfo.cs
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.CoreCompileInputs.cache
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.sourcelink.json
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\scopedcss\bundle\Indus.Api.styles.css
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.Up2Date
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.dll
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\refint\Indus.Api.dll
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.pdb
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.genruntimeconfig.cache
+E:\IndusInternalApp 1\backend\Indus.Api\obj\Debug\net8.0\ref\Indus.Api.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\IndusInternalApp 1\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\appsettings.json
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.exe
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.deps.json
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.runtimeconfig.json
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.pdb
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.AssemblyReference.cache
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.AssemblyInfoInputs.cache
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.AssemblyInfo.cs
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.CoreCompileInputs.cache
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.sourcelink.json
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets\msbuild.Indus.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Indus.Api.props
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Indus.Api.props
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Indus.Api.props
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\scopedcss\bundle\Indus.Api.styles.css
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.csproj.Up2Date
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\refint\Indus.Api.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.pdb
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\Indus.Api.genruntimeconfig.cache
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\obj\Debug\net8.0\ref\Indus.Api.dll
+D:\IA UI SS\IndusInternalApp\backend\Indus.Api\bin\Debug\net8.0\Indus.Api.staticwebassets.runtime.json

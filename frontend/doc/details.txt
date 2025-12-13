@@ -1,0 +1,147 @@
+Marketing and CRM: 
+Marketing Activities 
+ Promotion of Product 
+ All channels: Social Media, Website, Publications, Events & Exhibitions, 
+Conferences & Seminars, Print Ads. 
+CRM (Customer Relationship Management) 
+1. Lead Generation 
+2. Lead Nurturing: 
+o Meeting 
+o Follow-up 
+o Presentations of Demos 
+o Material 
+o Proposals/Tool: 
+ Which Module/Product 
+ Cost? 
+ Implementation Effort (Hrs) 
+ Customization (What all - effort in hrs) 
+ Schedule 
+ Payment Cycle (Advance? Tranches?) 
+ Dependency on Project Status for Payment 
+3. Conversion of Lead into Client 
+4. Client Management: 
+o Project Status 
+o Payment Status 
+o Client Satisfaction / Happiness Status 
+o Any upsell possibilities. 
+ New Proposal  
+HRM, Asset, and Performance Management: 
+HRM (Human Resource Management) 
+ Organization Structure 
+o Hierarchy 
+o Roles & Responsibilities -> JD of a team member (position) -> Team 
+Clarification -> Development -> Implementation (Senior, Mid Level, Junior) 
+> Trainees & Interns (not included) 
+ Employee Life-Cycle 
+o Search -> Shortlisting as per JD 
+o Interviewing / Screening Process 
+o Shortlisting -> Offer -> Finalization 
+o On-boarding & Related formalities 
+o Resignation, Notice period, Termination. 
+ Attendance 
+o In-office duties 
+o WFH procedures & Tracking (policy) -> availability per day / No. of hours 
+o On-site duty 
+ Leave management & Record 
+o Entitlement (policy) 
+o Actual tracking 
+o Payroll impact (if any) 
+ Payroll (Salaries & Reimbursement of non-employees/Consultants) 
+o Salary structure 
+o Actual monthly computation 
+o Salary slips 
+ HR Policies 
+o General policies 
+o Leave management 
+o Holidays 
+o Code of Conduct policies (Including Sexual Harassment at WP) 
+Asset Management 
+ Identification / Mapping of Assets 
+ Noting New Assets 
+ Allotment of Assets 
+ Recall of Assets 
+ Transfer of Assets 
+ Asset Expiry (In-Active) 
+Performance Management 
+ Defining KRAs as per JD 
+ Basis daily update / Work Report - Weekly / Monthly / Quarterly Analysis of 
+Performance 
+ Action points for Improvement 
+ Monitoring of Action Points -> Self Review -> Dept Head Review -> HR Review -> 
+Finalization -> Impact on Payroll 
+ Expense Conveyance & Expense Management 
+o Travel for meeting 
+o Travel for Projects mapped as per project code / ID. 
+Project Management and Support: 
+Project Management 
+ Finalization of Proposal 
+o Development Team 
+ Customization (?) 
+ Who will do it 
+ How much time 
+ Development 
+ Testing 
+ Delivery 
+o Implementation Team 
+ Project Team 
+ Lead 
+ Manage Day-to-Day 
+ Users 
+ Time frame & schedule, availability of Team 
+ Negotiation for Calendar 
+ Fixing milestones 
+ Kickoff meeting 
+ Implementation 
+ Daily Tracking 
+ Points for Improvements / Bugs / Errors 
+ Handholding 
+ Sign-off 
+ Planned V/S Actual 
+o Implementation Timeline 
+o Development Team Involvement Timeline 
+o Cost / Estimate v/s Actual -> Project Profitability 
+Support 
+ Existing Clients -> Sign-off done 
+ Day to Day Points -> Resolved by training 
+ Task management 
+o If errors / Bugs 
+o Improvement 
+o Customization -> Follow up cycle 
+ Subscription 
+Task Management and Finance : 
+Task Management 
+ Project Management 
+o Improvements 
+o Errors & Bugs 
+o Customizations 
+o New Modules & Features 
+ -> New points 
+ -> Validate & Verify 
+ -> Assignment 
+ -> Expected TAT (delivery) 
+ -> Development 
+ -> Testing 
+ -> Deployment on live Server 
+ -> Training (Implementation) 
+ -> Delivery 
+ -> Invoice & Debt Payment follow up 
+ -> Customization / upsell 
+Support 
+ MIS & Finance 
+o Budget - Quarterly - Annual (Expense & Income) -> P/L (Target) 
+o Actual 
+ Revenue 
+ Tracking of Revenue 
+ Invoicing 
+ Collection & Follow-up 
+ Expense 
+ Salaries & Renumeration 
+ Marketing & Promotional Expense 
+ Office & facility Expenditure 
+ Travel & Other exp. 
+o Cashflow management 
+o MIS Reports - Management Information System 
+ Team performance 
+ Revenue Performance 
+ Expense & Cost Control 
+ Profitability (Actual) v/s Budget. 

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "MvCR32snABwY1JoPHiUkhP6RQM6Eyk7RptanAN8PLJQ=",
+  "Source": "Indus.Api",
+  "BasePath": "_content/Indus.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Indus.Api\\wwwroot",
+      "Source": "Indus.Api",
+      "ContentRoot": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\",
+      "BasePath": "_content/Indus.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\uploads\\documents\\30_Aadhar Card_20251121144254_IMG-20250907-WA0024.jpg",
+      "SourceId": "Indus.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\",
+      "BasePath": "_content/Indus.Api",
+      "RelativePath": "uploads/documents/30_Aadhar Card_20251121144254_IMG-20250907-WA0024.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\documents\\30_Aadhar Card_20251121144254_IMG-20250907-WA0024.jpg"
+    },
+    {
+      "Identity": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\uploads\\documents\\30_Bank Passbook_20251121144254_IMG-20250907-WA0028.jpg",
+      "SourceId": "Indus.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\",
+      "BasePath": "_content/Indus.Api",
+      "RelativePath": "uploads/documents/30_Bank Passbook_20251121144254_IMG-20250907-WA0028.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\documents\\30_Bank Passbook_20251121144254_IMG-20250907-WA0028.jpg"
+    },
+    {
+      "Identity": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\uploads\\documents\\30_PAN Card_20251121144254_IMG-20250907-WA0026.jpg",
+      "SourceId": "Indus.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IA UI SS\\IndusInternalApp\\backend\\Indus.Api\\wwwroot\\",
+      "BasePath": "_content/Indus.Api",
+      "RelativePath": "uploads/documents/30_PAN Card_20251121144254_IMG-20250907-WA0026.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\documents\\30_PAN Card_20251121144254_IMG-20250907-WA0026.jpg"
+    }
+  ]
+}
