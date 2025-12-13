@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import DashboardLayout from '@/components/DashboardLayout';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -18,7 +18,7 @@ const currentUser = {
   role: 'admin', // 'admin', 'team-lead', 'team-member'
 };
 
-export default function CreateTaskPage() {
+function CreateTaskPageContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const [taskType, setTaskType] = useState('meeting');
@@ -398,5 +398,13 @@ export default function CreateTaskPage() {
         </Card>
       </div>
     </DashboardLayout>
+  );
+}
+
+export default function CreateTaskPage() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <CreateTaskPageContent />
+    </Suspense>
   );
 }

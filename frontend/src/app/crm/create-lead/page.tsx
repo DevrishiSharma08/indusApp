@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -14,7 +14,7 @@ import { ArrowLeft, Upload, Download, UploadCloud, FileCheck2, FileX2, AlertCirc
 import { toast } from 'sonner';
 import { mockTeamMembers } from '@/lib/assets-mock-data';
 
-export default function CreateLeadPage() {
+function CreateLeadPageContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const isEditMode = searchParams.get('mode') === 'edit';
@@ -479,5 +479,13 @@ export default function CreateLeadPage() {
         </div>
       )}
     </div>
+  );
+}
+
+export default function CreateLeadPage() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <CreateLeadPageContent />
+    </Suspense>
   );
 }
